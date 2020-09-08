@@ -55,13 +55,13 @@ find *.html -exec ./trac2md.sh '{}' \;
 We could have added command line args to set some of the meta tags but just added it to a filter that also sets the title based on the top level 1 header.
 
 ```
-pandoc _drafts/airlinemap.md -o _drafts/airlinemap.2.md --filter assets/metadata.py
+pandoc _drafts/airlinemap.md -o _drafts/airlinemap.md --filter assets/metadata.py
 
 # Now do it in batch
-find _drafts/*.md -exec sh -c 'pandoc {} -o {} --filter assets/metadata.py' \;
+find _drafts/*.md -exec sh -c 'pandoc -s {} -o {} --filter assets/metadata.py' \;
 
 # now update the datetime
-find *.md -exec pandoc '{}' -o '{}' --filter assets/set-datetime.py
+find *.md -exec sh -c 'pandoc -s {} -o {} --filter assets/set-datetime.py' \;
 
 # and then drop the Attachment section onward
 sed -i '/Posted/Q' _drafts/*.md

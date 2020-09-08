@@ -1,6 +1,15 @@
-# Network analysis using GRASS
+---
+date: '0000-00-00'
+layout: post
+title: Network analysis using GRASS
+---
 
-I ended up wanting to analyze commute paths on several networks, but instructions on how to properly prepare a network file with new points snapped to it as nodes was a little less than clear. I'm not 100% sure this is right but it is pieced together from the command history <a href="http://" class="ext-link"> GRASS</a> stored with each layer in my mapset.
+I ended up wanting to analyze commute paths on several networks, but
+instructions on how to properly prepare a network file with new points
+snapped to it as nodes was a little less than clear. I'm not 100% sure
+this is right but it is pieced together from the command history
+<a href="http://" class="ext-link"> GRASS</a> stored with each layer in
+my mapset.
 
     #bring the layer in
     v.in.ogr -o dsn="/scratch/congelton/davis_ped_net/ped_net_sep28.shp" output="pednets28" min_area=0.0001 snap=-1
@@ -42,15 +51,19 @@ I ended up wanting to analyze commute paths on several networks, but instruction
 
 Things to watch out for:
 
--   A network file should have both lines and points with the same layer number(ie 1\_points 1\_lines)
+-   A network file should have both lines and points with the same layer
+    number(ie 1\_points 1\_lines)
 -   A network file with no cat column in the points component
 
 <!-- -->
 
 -   Posted: 2009-04-27 11:49 (Updated: 2009-04-27 12:30)
 -   Author: [wildintellect](author/wildintellect.html)
--   Categories: [osgeo](category/osgeo.html) [commands](category/commands.html) [grass](category/grass.html) [gis](category/gis.html)
+-   Categories: [osgeo](category/osgeo.html)
+    [commands](category/commands.html) [grass](category/grass.html)
+    [gis](category/gis.html)
 
-## Comments
+Comments
+--------
 
 No comments.
