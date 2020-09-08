@@ -56,13 +56,15 @@ We could have added command line args to set some of the meta tags but just adde
 
 ```
 pandoc _drafts/airlinemap.md -o _drafts/airlinemap.2.md --filter assets/metadata.py
-find *.md -exec pandoc '{}' -o '{}' --filter assets/metadata.py
+
+# Now do it in batch
+find _drafts/*.md -exec sh -c 'pandoc {} -o {} --filter assets/metadata.py' \;
 
 # now update the datetime
 find *.md -exec pandoc '{}' -o '{}' --filter assets/set-datetime.py
 
 # and then drop the Attachment section onward
-sed -i '/Posted/Q' _drafts/*.md 
+sed -i '/Posted/Q' _drafts/*.md
 ```
 
 
