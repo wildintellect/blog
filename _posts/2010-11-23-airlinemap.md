@@ -23,8 +23,7 @@ Circle using data from
 and a background map from
 <a href="http://NaturalEarthData.com" class="ext-link"> http://NaturalEarthData.com</a>
 
-[<img src="../raw-attachment/blog/airlinemap/airlinefixed.png" width="600" />](../attachment/blog/airlinemap/airlinefixed.png.html)
+![Map of airline polar flight paths]({{site.baseurl}}/assets/airlinefixed.png)
 
 I'll link to the full pdf later. Creative Commons license in the footer
 applies.
-

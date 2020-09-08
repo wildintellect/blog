@@ -64,10 +64,11 @@ find _drafts/*.md -exec sh -c 'pandoc -s {} -o {} --filter assets/metadata.py' \
 find _drafts/*.md -exec sh -c 'pandoc -s {} -o {} --filter assets/set-datetime.py' \;
 
 # and then drop the Attachment section onward
-sed -i '/Posted/Q' _drafts/*.md
+find _drafts/*.md -exec sed -i '/Posted/Q' {} \;
 ```
 
 
+Probably going to do this part by hand, there are so few and not standard.
 ```
 # links to attachments (can be images) need to be fixed
 # before
