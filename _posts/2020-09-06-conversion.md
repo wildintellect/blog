@@ -52,6 +52,13 @@ find *.html -exec ./trac2md.sh '{}' \;
 1. Next in a new repo setup for Jekyll on Github Pages, going to copy all the markdown files in as posts.
 1. Need to also grab all the files from the raw-attachments folder and put them into assets. These are all the images used in posts and files attached (pdfs, etc...) `mv raw-attachments/*/* ../blog/assets`
 
+We could have added command line args to set some of the meta tags but just added it to a filter that also sets the title based on the top level 1 header.
+
+```
+pandoc -s _drafts/airlinemap.md -o _drafts/airlinemap.2.md --filter assets/metadata.py
+```
+
+
 ```
 # links to attachments (can be images) need to be fixed
 # before
