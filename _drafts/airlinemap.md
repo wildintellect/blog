@@ -28,21 +28,3 @@ and a background map from
 I'll link to the full pdf later. Creative Commons license in the footer
 applies.
 
--   Posted: 2010-11-23 14:58 (Updated: 2012-09-25 23:24)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [qgis](category/qgis.html)
-    [spatialite](category/spatialite.html) [osgeo](category/osgeo.html)
-    [inkscape](category/inkscape.html)
-
-### Attachments
-
--   [airlinefixed.png](../attachment/blog/airlinemap/airlinefixed.png.html "View attachment")
-    <a href="../raw-attachment/blog/airlinemap/airlinefixed.png" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (614.2 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2011-01-08T15%3A33%3A14-08%3A00&amp;precision=second" class="timeline" title="2011-01-08T15:33:14-08:00 in Timeline">9
-    years</a> ago.
-
-Comments
---------
-
-No comments.

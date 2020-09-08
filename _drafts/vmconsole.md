@@ -44,13 +44,3 @@ Firefox 3.6 hence the hack around).
 <a href="http://communities.vmware.com/message/999988;jsessionid=A135EF8314A4068012697572DC180568" class="ext-link"> Where
 I found the answer</a>
 
--   Posted: 2010-06-08 01:22 (Updated: 2011-01-16 20:04)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [firefox](category/firefox.html)
-    [virtualization](category/virtualization.html)
-    [vmware](category/vmware.html)
-
-Comments
---------
-
-No comments.

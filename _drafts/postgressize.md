@@ -18,12 +18,3 @@ Or for the lazy
            pg_size_pretty(pg_database_size(pg_database.datname)) AS size
       FROM pg_database;
 
--   Posted: 2011-05-19 17:25 (Updated: 2012-09-25 23:24)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [osgeo](category/osgeo.html)
-    [postgis](category/postgis.html) [database](category/database.html)
-
-Comments
---------
-
-No comments.

@@ -50,12 +50,3 @@ english
 
 <!-- -->
 
--   Posted: 2009-02-18 23:43 (Updated: 2012-09-25 23:27)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [statistics](category/statistics.html)
-    [r](category/r.html) [database](category/database.html)
-
-Comments
---------
-
-No comments.

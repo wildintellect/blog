@@ -31,14 +31,3 @@ To test with python(happens to be what I'm developing with)
     from pysqlite2 import dpapi2 as sqlite3
     print sqlite3.sqlite_version
 
--   Posted: 2009-02-10 17:46 (Updated: 2010-11-03 10:44)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [sqlite](category/sqlite.html)
-    [intrepid](category/intrepid.html) [gis](category/gis.html)
-    [spatialite](category/spatialite.html)
-    [ubuntu](category/ubuntu.html)
-
-Comments
---------
-
-No comments.

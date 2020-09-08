@@ -49,12 +49,3 @@ Solution 1 is probably cleaner, as I don't have to now clip the
 continents to match the coastline again, but solution 2 let me keep it
 all in the same db where the data was to start with less steps.
 
--   Posted: 2014-04-24 02:42
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [Spatialite](category/Spatialite.html)
-    [Cartography](category/Cartography.html) [OGR](category/OGR.html)
-
-Comments
---------
-
-No comments.

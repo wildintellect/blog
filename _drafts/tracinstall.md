@@ -30,11 +30,3 @@ apache logs, mines at /var/log/apache2/error.log)
 2.  Import Error on compat, take a look at this
     <a href="http://trac.edgewall.org/ticket/7526" class="ext-link"> ticket</a>
 
--   Posted: 2008-12-19 03:20 (Updated: 2009-02-12 22:47)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [install](category/install.html)
-
-Comments
---------
-
-No comments.

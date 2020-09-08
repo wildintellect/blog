@@ -12,13 +12,3 @@ The talk was on Python Plugin development for QGIS, get the slides over
 on
 <a href="http://www.scribd.com/doc/106971204/QGis-Scripting-with-Python-Intro" class="ext-link"> Scribd</a>
 
--   Posted: 2012-09-25 15:00 (Updated: 2012-09-25 23:23)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [qgis](category/qgis.html)
-    [python](category/python.html) [osgeo](category/osgeo.html)
-    [gis](category/gis.html)
-
-Comments
---------
-
-No comments.

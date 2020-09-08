@@ -16,11 +16,3 @@ efficiently would be so confusing.
 Anyways, be patient, let me know if you have questions. tech at
 wildintellect dot com
 
--   Posted: 2010-06-07 00:54
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [wildintellect](category/wildintellect.html)
-
-Comments
---------
-
-No comments.

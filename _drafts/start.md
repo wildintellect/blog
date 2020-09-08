@@ -13,16 +13,3 @@ with a <a href="http://trac.edgewall.org" class="ext-link"> Trac</a>
 site. Not exactly meant for a blog, but it will let me post code
 snippets and downloadable applications I write, including python eggs.
 
--   Posted: 2008-12-18 23:38
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [junk](category/junk.html)
-
-Comments
---------
-
-[1.](start.html#comment-1) wildintellect -- 2008-12-19 02:46
-
-Now it's almost 100%, a few more things to test and tweak but it's
-getting there.
-
-Enjoy, Alex

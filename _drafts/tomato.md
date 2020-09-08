@@ -53,13 +53,3 @@ Note: this method will probably work with
 <a href="http://openwrt.org/" class="ext-link"> OpenWrt</a> too but I
 didn't try it.
 
--   Posted: 2011-06-16 18:39
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [asus](category/asus.html)
-    [router](category/router.html) [foss](category/foss.html)
-    [linux](category/linux.html)
-
-Comments
---------
-
-No comments.

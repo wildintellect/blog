@@ -40,12 +40,3 @@ Things I also recommend:
 1.  Converting ext3 to ext4
 2.  Creating a Private directory for storing encrypted stuff.
 
--   Posted: 2011-01-16 20:03
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [ubuntu](category/ubuntu.html)
-    [linux](category/linux.html)
-
-Comments
---------
-
-No comments.

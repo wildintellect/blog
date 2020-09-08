@@ -88,12 +88,3 @@ net 192.168.1.1xx
 Save that and now when you open iscan or sane it should find your
 scanner.
 
--   Posted: 2014-05-13 22:07
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [printer](category/printer.html)
-    [scanner](category/scanner.html) [ubuntu](category/ubuntu.html)
-
-Comments
---------
-
-No comments.

@@ -26,11 +26,3 @@ what it looks like.
 Tip 2: Want to use Wifi on a plane, toggle to Airplane mode, then toggle
 wifi back on. PS: Airplane mode also breaks many in program ads.
 
--   Posted: 2014-09-19 15:43
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [android](category/android.html)
-
-Comments
---------
-
-No comments.

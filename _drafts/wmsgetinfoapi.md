@@ -108,19 +108,3 @@ It would be awesome to eliminate the BBOX part and the pixel space
 coordinates so all you need is Lat & Long. But so far it looks like one
 needs to write a small web application to do that.
 
--   Posted: 2015-04-24 16:36 (Updated: 2015-04-24 16:54)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [geoweb](category/geoweb.html)
-
-### Attachments
-
--   [RESTishAPI.png](../attachment/blog/wmsgetinfoapi/RESTishAPI.png.html "View attachment")
-    <a href="../raw-attachment/blog/wmsgetinfoapi/RESTishAPI.png" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (82.8 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2015-04-24T16%3A37%3A19-07%3A00&amp;precision=second" class="timeline" title="2015-04-24T16:37:19-07:00 in Timeline">5
-    years</a> ago. "WMS RESTishAPI diagram"
-
-Comments
---------
-
-No comments.

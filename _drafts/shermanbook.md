@@ -20,19 +20,3 @@ Wondering what other books you've missed see the
 <a href="http://wiki.osgeo.org/wiki/Library" class="ext-link"> OSGeo
 Library</a>
 
--   Posted: 2009-05-30 01:02 (Updated: 2009-05-30 01:11)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [qgis](category/qgis.html) [osgeo](category/osgeo.html)
-
-### Attachments
-
--   [desktopgis.jpg](../attachment/blog/shermanbook/desktopgis.jpg.html "View attachment")
-    <a href="../raw-attachment/blog/shermanbook/desktopgis.jpg" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (388.3 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2009-05-30T01%3A03%3A23-07%3A00&amp;precision=second" class="timeline" title="2009-05-30T01:03:23-07:00 in Timeline">11
-    years</a> ago. "Gary Sherman's book in the UC Davis library"
-
-Comments
---------
-
-No comments.

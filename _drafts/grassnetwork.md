@@ -57,13 +57,3 @@ Things to watch out for:
 
 <!-- -->
 
--   Posted: 2009-04-27 11:49 (Updated: 2009-04-27 12:30)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [osgeo](category/osgeo.html)
-    [commands](category/commands.html) [grass](category/grass.html)
-    [gis](category/gis.html)
-
-Comments
---------
-
-No comments.

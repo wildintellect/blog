@@ -48,14 +48,3 @@ List of useful links:
 
 <!-- -->
 
--   Posted: 2008-12-22 23:44 (Updated: 2009-02-12 22:48)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [access](category/access.html)
-    [sqlite](category/sqlite.html) [odbc](category/odbc.html)
-    [openoffice](category/openoffice.html)
-    [database](category/database.html)
-
-Comments
---------
-
-No comments.

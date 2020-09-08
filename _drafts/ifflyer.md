@@ -57,31 +57,3 @@ See Attached:
 
 <!-- -->
 
--   Posted: 2009-05-16 15:11 (Updated: 2012-09-25 23:26)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [lugod](category/lugod.html)
-    [scribus](category/scribus.html) [layout](category/layout.html)
-    [inkscape](category/inkscape.html)
-
-### Attachments
-
--   [if-flyer-200905.png](../attachment/blog/ifflyer/if-flyer-200905.png.html "View attachment")
-    <a href="../raw-attachment/blog/ifflyer/if-flyer-200905.png" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (392.3 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2009-05-16T15%3A16%3A42-07%3A00&amp;precision=second" class="timeline" title="2009-05-16T15:16:42-07:00 in Timeline">11
-    years</a> ago. "Export PNG 5/30 IF flyer"
--   [if-flyer-200905.svg](../attachment/blog/ifflyer/if-flyer-200905.svg.html "View attachment")
-    <a href="../raw-attachment/blog/ifflyer/if-flyer-200905.svg" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (364.7 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2009-05-21T21%3A33%3A40-07%3A00&amp;precision=second" class="timeline" title="2009-05-21T21:33:40-07:00 in Timeline">11
-    years</a> ago. "Inkscape SVG"
--   [if-half-sheet.sla](../attachment/blog/ifflyer/if-half-sheet.sla.html "View attachment")
-    <a href="../raw-attachment/blog/ifflyer/if-half-sheet.sla" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (44.0 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2009-05-21T21%3A34%3A24-07%3A00&amp;precision=second" class="timeline" title="2009-05-21T21:34:24-07:00 in Timeline">11
-    years</a> ago.
-
-Comments
---------
-
-No comments.

@@ -47,11 +47,3 @@ Workarounds:
 
 <!-- -->
 
--   Posted: 2014-08-31 21:40
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [ubuntu](category/ubuntu.html)
-
-Comments
---------
-
-No comments.

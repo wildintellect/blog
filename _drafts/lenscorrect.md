@@ -46,20 +46,3 @@ Want to see my code for doing it in batch, you're in luck head over to
 github:
 <a href="https://github.com/wildintellect/lenscorrection" class="ext-link"> https://github.com/wildintellect/lenscorrection</a>
 
--   Posted: 2014-10-29 13:44 (Updated: 2014-10-29 14:16)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [python](category/python.html)
-    [photography](category/photography.html)
-
-### Attachments
-
--   [overview.png](../attachment/blog/lenscorrect/overview.png.html "View attachment")
-    <a href="../raw-attachment/blog/lenscorrect/overview.png" class="trac-rawlink" title="Download"><img src="../chrome/common/download.png" alt="Download" /></a>
-    (565.7 KB) - added by *wildintellect*
-    <a href="http://192.168.1.113/timeline?from=2014-10-29T13%3A45%3A25-07%3A00&amp;precision=second" class="timeline" title="2014-10-29T13:45:25-07:00 in Timeline">6
-    years</a> ago. "gopro distortion before and after"
-
-Comments
---------
-
-No comments.

@@ -45,12 +45,3 @@ FYI
 <a href="http://www.rdocumentation.org/" class="ext-link"> http://www.rdocumentation.org/</a>
 is awesome if you haven't seen it yet.
 
--   Posted: 2014-06-10 12:27 (Updated: 2014-06-10 12:29)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [statistics](category/statistics.html)
-    [r](category/r.html)
-
-Comments
---------
-
-No comments.

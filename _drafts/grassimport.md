@@ -32,12 +32,3 @@ wxpython interface which also failed.
 Lucky for me the good ol command line worked once I gave it all the info
 it wanted in the proper syntax.
 
--   Posted: 2009-01-18 20:40 (Updated: 2009-02-15 13:02)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [qgis](category/qgis.html) [grass](category/grass.html)
-    [gis](category/gis.html) [research](category/research.html)
-
-Comments
---------
-
-No comments.

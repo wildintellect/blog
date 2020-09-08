@@ -42,12 +42,3 @@ presentations):
 Next post: Some new public domain datasets people are going to want to
 get their hands on...
 
--   Posted: 2009-10-10 21:50 (Updated: 2009-10-10 21:55)
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [gis](category/gis.html) [nacis](category/nacis.html)
-    [osgeo](category/osgeo.html)
-
-Comments
---------
-
-No comments.

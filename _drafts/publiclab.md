@@ -16,11 +16,3 @@ Here's a link to my
 <a href="http://www.flickr.com/photos/9881331@N06/sets/72157626439024683/" class="ext-link"> flickr
 stream</a> with photos of some of their airborne camera platforms.
 
--   Posted: 2011-05-18 21:25
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [publiclab](category/publiclab.html)
-
-Comments
---------
-
-No comments.

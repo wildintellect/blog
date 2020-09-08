@@ -21,11 +21,3 @@ Here's a couple of tricks/tips which should help:
 
 <!-- -->
 
--   Posted: 2011-09-26 12:08
--   Author: [wildintellect](author/wildintellect.html)
--   Categories: [ubuntu](category/ubuntu.html)
-
-Comments
---------
-
-No comments.
