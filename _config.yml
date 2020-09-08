@@ -29,7 +29,8 @@ twitter_username: aimandel
 github_username:  wildintellect
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
+logo: /assets/wildintellectavatar.jpg
 plugins:
   - jekyll-feed
 
