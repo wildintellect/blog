@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2014-10-29 13:44 -0700'
 layout: post
 title: Lens Correction for GoPro Hero2
 ---

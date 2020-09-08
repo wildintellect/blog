@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2014-06-10 12:27 -0700'
 layout: post
 title: |
     R tip: G-Test G-Statistic G\^2 likelihood ratio, or whatever else you

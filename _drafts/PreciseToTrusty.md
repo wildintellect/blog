@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2014-08-31 21:40 -0700'
 layout: post
 title: 'Upgrade notes Ubuntu 12.04 to 14.04'
 ---

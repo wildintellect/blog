@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2009-05-16 15:11 -0700'
 layout: post
 title: 'Inkscape to Scribus to PDF document production: How to make a flyer'
 ---

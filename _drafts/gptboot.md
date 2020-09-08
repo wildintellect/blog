@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2011-09-26 12:08 -0700'
 layout: post
 title: GPT Booting with Ubuntu
 ---

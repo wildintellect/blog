@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2012-01-22 12:45 -0700'
 layout: post
 title: OSGeo Live Partial Download Estimates
 ---

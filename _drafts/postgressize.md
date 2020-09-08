@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2011-05-19 17:25 -0700'
 layout: post
 title: 'How big was that database?'
 ---

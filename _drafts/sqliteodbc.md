@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2008-12-22 23:44 -0700'
 layout: post
 title: SQLite and ODBC for Data Entry
 ---

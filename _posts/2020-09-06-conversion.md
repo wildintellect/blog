@@ -61,7 +61,7 @@ pandoc _drafts/airlinemap.md -o _drafts/airlinemap.md --filter assets/metadata.p
 find _drafts/*.md -exec sh -c 'pandoc -s {} -o {} --filter assets/metadata.py' \;
 
 # now update the datetime
-find *.md -exec sh -c 'pandoc -s {} -o {} --filter assets/set-datetime.py' \;
+find _drafts/*.md -exec sh -c 'pandoc -s {} -o {} --filter assets/set-datetime.py' \;
 
 # and then drop the Attachment section onward
 sed -i '/Posted/Q' _drafts/*.md

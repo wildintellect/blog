@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2012-09-25 15:00 -0700'
 layout: post
 title: GeoMeetup Slides
 ---

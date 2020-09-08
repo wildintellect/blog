@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2008-12-19 03:20 -0700'
 layout: post
 title: 'Setting up Trac, getting past the errors.'
 ---

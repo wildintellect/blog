@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2009-02-18 23:43 -0700'
 layout: post
 title: 'Reshape R - long to wide conversion'
 ---

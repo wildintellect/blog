@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2014-04-24 02:42 -0700'
 layout: post
 title: Batch convert Natural Earth SQLite to Spatialite
 ---

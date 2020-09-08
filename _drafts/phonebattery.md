@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2014-09-19 15:43 -0700'
 layout: post
 title: Save battery by slowing data
 ---

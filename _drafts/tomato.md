@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2011-06-16 18:39 -0700'
 layout: post
 title: 'Router gone bad, Open Source It!'
 ---

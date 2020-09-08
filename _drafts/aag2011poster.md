@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2011-06-17 11:51 -0700'
 layout: post
 title: Free and Open Source Tools for GPS Data Management and Analysis
 ---

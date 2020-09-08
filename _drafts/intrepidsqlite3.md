@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2009-02-10 17:46 -0700'
 layout: post
 title: 'Installing Sqlite 3.6.x on Ubuntu Intrepid'
 ---

@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2015-04-24 16:36 -0700'
 layout: post
 title: RESTish WMSGetFeatureInfo API
 ---

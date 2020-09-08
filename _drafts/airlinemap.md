@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2010-11-23 14:58 -0700'
 layout: post
 title: Open Source Mapping Workflow
 ---

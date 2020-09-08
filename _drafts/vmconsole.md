@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2010-06-08 01:22 -0700'
 layout: post
 title: 'More reliabe VMware Console?'
 ---

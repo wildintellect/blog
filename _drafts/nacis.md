@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2009-10-10 21:50 -0700'
 layout: post
 title: NACIS 2009 Opening up
 ---

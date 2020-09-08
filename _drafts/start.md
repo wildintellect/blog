@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2008-12-18 23:38 -0700'
 layout: post
 title: 'Just started, will it work'
 ---

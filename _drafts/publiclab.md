@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2011-05-18 21:25 -0700'
 layout: post
 title: 'Public Laboratory, citizen science getting serious.'
 ---

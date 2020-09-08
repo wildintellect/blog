@@ -1,5 +1,5 @@
 ---
-date: '0000-00-00'
+date: '2011-01-16 20:03 -0700'
 layout: post
 title: 'Un-doing the partition mess from a dual boot'
 ---
