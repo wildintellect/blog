@@ -15,7 +15,9 @@ the size of the original data pixels to make a BBOX
 
 Example for 10.75,13.25
 
+```
 <a href="http://example.com/maps?MAP=map1&amp;QUERY_LAYERS=h11&amp;LAYERS=h11&amp;SERVICE=WMS&amp;VERSION=1.1.1&amp;REQUEST=GetFeatureInfo&amp;STYLES=default&amp;SRS=EPSG:4326&amp;FEATURE_COUNT=1&amp;INFO_FORMAT=text/html?BBOX=10,13,11,14&amp;WIDTH=100&amp;HEIGHT=100&amp;X=75&amp;Y=75" class="ext-link"> http://example.com/maps?MAP=map1&QUERY\_LAYERS=h11&LAYERS=h11&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetFeatureInfo&STYLES=default&SRS=EPSG:4326&FEATURE\_COUNT=1&INFO\_FORMAT=text/html?BBOX=10,13,11,14&WIDTH=100&HEIGHT=100&X=75&Y=75</a>
+```
 
 A lot of the required parameters really don't change for a given use
 case. In this project, I'm always querying in Lat Lon WGS84 and I'm not
@@ -38,12 +40,12 @@ The end result is now you can write a more sensible url in REST style
 
 Pattern
 
-maps/\<mapfile\>/layers/\<layername\>?BBOX=minX,minY,maxX,maxY&&WIDTH=100&HEIGHT=100&X=75&Y=75
+`maps/\<mapfile\>/layers/\<layername\>?BBOX=minX,minY,maxX,maxY&&WIDTH=100&HEIGHT=100&X=75&Y=75`
 
 Example
-
+```
 <a href="http://example.com/api/maps/map1/layers/h11?BBOX=10,13,11,14&amp;WIDTH=100&amp;HEIGHT=100&amp;X=75&amp;Y=75" class="ext-link"> http://example.com/api/maps/map1/layers/h11?BBOX=10,13,11,14&WIDTH=100&HEIGHT=100&X=75&Y=75</a>
-
+```
 The trick here, is make a 1x1 degree box based on rounding your
 coordinates to the nearest integer. Then using the remainder to get the
 fractional distance out of the 100x100 pixels in the request. You can
@@ -58,15 +60,14 @@ The big **Gotchas**
 
 See diagram below.
 
-[![WMS RESTishAPI
-diagram](../raw-attachment/blog/wmsgetinfoapi/RESTishAPI.png "WMS RESTishAPI diagram")](../attachment/blog/wmsgetinfoapi/RESTishAPI.png.html)
+![WMS RESTishAPI diagram]({{site_baseurl}}/assets/RESTishAPI.png "WMS RESTishAPI diagram")
 Note: For WMS 1.3 it's CRS not SRS, and I & J not X & Y
 
 And now an example of how to build the request url in Javascript. If
 you're WMS service is set to return json or geojson or html that should
 be all you need.
 
-``` {.wiki}
+```javascript
 function getInfoUrl(lonlat) {
 
     //retrieve the name of actively selected layer you want to query
@@ -107,4 +108,3 @@ function getInfoUrl(lonlat) {
 It would be awesome to eliminate the BBOX part and the pixel space
 coordinates so all you need is Lat & Long. But so far it looks like one
 needs to write a small web application to do that.
-
