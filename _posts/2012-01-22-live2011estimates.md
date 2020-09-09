@@ -5,8 +5,7 @@ title: OSGeo Live Partial Download Estimates
 ---
 
 I had a chance this last week to do a little bit of analysis on the
-download logs for the
-<a href="http://live.osgeo.org" class="ext-link"> OSGeo-Live</a>
+download logs for the [OSGeo-Live](https://live.osgeo.org)
 project. The basics: downloads have increased quite a bit from version
 4.5 to 5.0 and the full 4.4 GB iso file is the most popular but that
 doesn't mean there aren't quite a few people downloading the other
@@ -21,9 +20,8 @@ countries have downloaded.
 These graphs represent data for all of 2011 from 2 of 5 servers, the 2
 in California.
 
-[<img src="../raw-attachment/blog/live2011estimates/OSGeoByType.png" title="osgeo 2011 downloads by type" alt="osgeo 2011 downloads by type" width="400" />](../attachment/blog/live2011estimates/OSGeoByType.png.html)
-[<img src="../raw-attachment/blog/live2011estimates/OSGeoByVersion.png" title="osgeo 2011 downloads by version" alt="osgeo 2011 downloads by version" width="400" />](../attachment/blog/live2011estimates/OSGeoByVersion.png.html)
+![Bar chart of OSGeo live downloads by type]({{site_baseurl}}/assets/OSGeoByType.png)
+![Bar chart of OSGeo live downloads by version]({{site_baseurl}}/assets/OSGeoByVersion.png)
 
 Anyone know what the difference is between viewed, entry and exit on
 awstats?
-
