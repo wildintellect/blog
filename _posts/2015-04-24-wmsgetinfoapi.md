@@ -16,7 +16,7 @@ the size of the original data pixels to make a BBOX
 Example for 10.75,13.25
 
 ```
-<a href="http://example.com/maps?MAP=map1&amp;QUERY_LAYERS=h11&amp;LAYERS=h11&amp;SERVICE=WMS&amp;VERSION=1.1.1&amp;REQUEST=GetFeatureInfo&amp;STYLES=default&amp;SRS=EPSG:4326&amp;FEATURE_COUNT=1&amp;INFO_FORMAT=text/html?BBOX=10,13,11,14&amp;WIDTH=100&amp;HEIGHT=100&amp;X=75&amp;Y=75" class="ext-link"> http://example.com/maps?MAP=map1&QUERY\_LAYERS=h11&LAYERS=h11&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetFeatureInfo&STYLES=default&SRS=EPSG:4326&FEATURE\_COUNT=1&INFO\_FORMAT=text/html?BBOX=10,13,11,14&WIDTH=100&HEIGHT=100&X=75&Y=75</a>
+http://example.com/maps?MAP=map1&QUERY\_LAYERS=h11&LAYERS=h11&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetFeatureInfo&STYLES=default&SRS=EPSG:4326&FEATURE\_COUNT=1&INFO\_FORMAT=text/html?BBOX=10,13,11,14&WIDTH=100&HEIGHT=100&X=75&Y=75
 ```
 
 A lot of the required parameters really don't change for a given use
@@ -28,7 +28,7 @@ serving the data.
 
 With that knowledge and Apache Rewrite you can simply this quite a bit.
 
-``` {.wiki}
+```shell
 <IfModule rewrite_module>
     RewriteEngine  on
     RewriteRule "^/api/maps/([^/]*)/layers/([^/]*)$" "/maps?MAP=$1&QUERY_LAYERS=$2&LAYERS=$2&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetFeatureInfo&STYLES=default&SRS=EPSG:4326&FEATURE_COUNT=1&INFO_FORMAT=text/html" [PT,QSA]
@@ -44,7 +44,7 @@ Pattern
 
 Example
 ```
-<a href="http://example.com/api/maps/map1/layers/h11?BBOX=10,13,11,14&amp;WIDTH=100&amp;HEIGHT=100&amp;X=75&amp;Y=75" class="ext-link"> http://example.com/api/maps/map1/layers/h11?BBOX=10,13,11,14&WIDTH=100&HEIGHT=100&X=75&Y=75</a>
+http://example.com/api/maps/map1/layers/h11?BBOX=10,13,11,14&WIDTH=100&HEIGHT=100&X=75&Y=75
 ```
 The trick here, is make a 1x1 degree box based on rounding your
 coordinates to the nearest integer. Then using the remainder to get the
