@@ -24,7 +24,7 @@ So for this I'd need:
 * Docker compose to weave it all together
 * Some plan for how to import the data to the volume and the db
 
-### Options
+### Docker Options
 
 * https://www.digitalocean.com/community/tutorials/how-to-share-data-between-the-docker-container-and-the-host
 but I don't think we want a bind mount, we want a proper volume as part to the compose
@@ -41,3 +41,15 @@ Nginx or Apache2?
 *
 
 The problem with installing piwigo inside a docker is that it needs to update the container every time there's an upgrade? Or can the install be done writing to a docker volume of a webserver container, and then work more normally?
+
+### What about Ansible
+
+Another approach, run ansible on my computer connecting over ssh to the remote instance and install+configure. This seems a simpler approach since I don't expect to need to scale with microservices, could just upgrade instance, and makes it quick to deploy anywhere I can ssh to.
+
+* [Ansible install of piwigo guide](https://www.opensourceforu.com/2018/01/devops-series-using-ansible-deploy-piwigo-photo-gallery/)
+* [Piwigo with Nginx](https://www.howtoforge.com/install-piwigo-gallery-on-nginx-with-debian-wheezy) (just to try nginx)
+
+
+### Serverless
+
+Some other way to do it https://medium.com/@gabehollombe/build-your-own-multi-user-photo-album-app-with-react-graphql-and-aws-amplify-374800b22e96
