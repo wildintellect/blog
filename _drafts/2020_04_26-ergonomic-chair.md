@@ -11,9 +11,9 @@ As many people ended up on semi-permanent or very long term work from home, a lo
 ## The Fit
 
 What makes an ergonomic chair - the ability to adjust it to fit your body size and needs.
-This can be surprisingly hard, a lot of chairs are for [above average](https://www.vox.com/2014/6/30/5857354/what-are-the-tallest-countries-in-the-world) [American men](https://www.cdc.gov/nchs/fastats/body-measurements.htm). The information about features and fit applies to everyone but the recommendations here are not for tall and/or large people. This house has 5' 8" and 5' 6" sitters.
+This can be surprisingly hard, a lot of chairs are for [above average](https://www.vox.com/2014/6/30/5857354/what-are-the-tallest-countries-in-the-world) [American men](https://www.cdc.gov/nchs/fastats/body-measurements.htm). The information about features and fit applies to everyone but the recommendations here are not for tall and/or large people, or very those on the shorter side. This house has 5' 8" and 5' 6" sitters. 
 
-TL;DR Skip to the recommendations...
+> Important step, get out the tape measure, and use this [guide](https://www.healthyworkstations.com/resources/ergo/TakingMeasurements.pdf) to figure out your size.
 
 ### Ranking of adjustments
 
@@ -71,4 +71,10 @@ at $300 with shipping was the [Branch Ergonomic Chair](https://www.branchfurnitu
 
 Branch is an interesting company, they switched to direct to consumer during the Pandemic to make up for loss in corporate office contracts, they only have a few models/colors which actually makes it way easier to shop, customer support has been great, when they realized the color I picked was going to be delayed in global shipping, they reached out and let me change to something that would ship right away. Bonuses for using some recycled material, and picking material that will last, the no nonsense site helped too.
 
-The Steelcase Series 1 was the runner up at $370-$415 (depends on sales and options). We're still looking for a chair for person 2, and might try this, as the lumbar adjustment on the Branch doesn't seem to be for everyone. I actually had a Steelcase Think at my last office job. It was a decent chair, but not any better for the price difference, and the Amia actually get's better reviews at a lower price.
+It didn't work out for Person 2, so I adopted the chair, and after fiddling with the lumbar support for a week to find the right spot it's been great. The wheel base is actually metal, and quite sturdy. While not everyone's asthetic, the Star Trek look works for me.
+
+The Steelcase Series 1 was the runner up at $370-$415 (depends on sales and options). I actually had a Steelcase Think at my last office job. It was a decent chair, but not any better for the price difference, and the Amia actually get's better reviews at a lower price.
+
+## The Choice 2
+As noted above the Branch didn't work out for both sitters. So we did end up getting a Steelcase Series 1, which Person 2 is happier with, and I also think it's a great chair. The one knock is it's still too tall. Without shoes on, it might not go low enough for a 5' 6" person. So for shorter people, I'd suggest considering getting the stool verion, which has a foot rest, looking for other external foot rests or continuing the search for a non-student chair that is sized appropriately.
+
