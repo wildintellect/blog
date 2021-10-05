@@ -15,11 +15,13 @@ In order of best for ultimate:
 
 There are only 2 brands, you have to order online, they have women’s sizes.
   1. Universe Point (Most Affordable) - runs a little big
+
     * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
     * US based company (East coast)
     * [https://www.universepoint.com/](https://www.universepoint.com/)
     ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
   2. Tokay (Best overall for high level players)
+
     * ~$134
     * UK based company - shipping might take longer (1 week)
     * [https://tokay-ultimate.com/](https://tokay-ultimate.com/)
@@ -108,7 +110,7 @@ What’s that weird sock like thing on some cleats. It’s to keep rubber pellet
 
 Fleet Feet (Downtown Davis), Target, and REI have decent options.
 
-If you are prone to blisters between toes, consider Toe Socks.
+> Note: If you are prone to blisters between toes, also consider Toe Socks.
 
 ## Other aspects
 
@@ -169,6 +171,6 @@ Learn to lace for your foot shape and fit.
 
 [https://ultiworld.com/2017/10/17/product-review-universe-point-womens-cleats/](https://ultiworld.com/2017/10/17/product-review-universe-point-womens-cleats/)
 
-[https://www.sportsrec.com/4337381/difference-between-soccer-cleats-football-cleats](https://www.sportsrec.com/4337381/difference-between-soccer-cleats-football-cleats)** **
+[https://www.sportsrec.com/4337381/difference-between-soccer-cleats-football-cleats](https://www.sportsrec.com/4337381/difference-between-soccer-cleats-football-cleats)
 
 > TODO - add link to stud pattern research
