@@ -4,9 +4,7 @@ layout: post
 title: DrAlex's Guide to Ultimate Cleats
 ---
 
-This is a guide to buying cleats for the sport of Ultimate, with some specific guidance extra towards women's cleats which can be much harder to find.
-
-To start, the most important thing is to buy what’s comfortable, and what you can afford, however spending a little bit more can make a big difference. That doesn't mean you have to buy expensive cleats, especially when you can get last year's model/colors on sale. However, I deeply regret the $25 cleats I bought my first year of college, they only lasted 1 year, the insole wore out, and a staple in the heel ate all my socks.
+Most important buy what’s comfortable and what you can afford, spending a little bit more can make a big difference, but you don’t have to buy expensive cleats, especially when you can get last year's model/colors on sale. However, I deeply regret the $25 cleats I bought my first year of college, the insole wore out and a staple ate my socks.
 
 ## Shopping
 
