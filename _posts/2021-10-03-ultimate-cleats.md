@@ -4,25 +4,26 @@ layout: post
 title: DrAlex's Guide to Ultimate Cleats
 ---
 
-Most important buy what’s comfortable and what you can afford, spending a little bit more can make a big difference, but you don’t have to buy expensive cleats, especially when you can get last year's model/colors on sale. However, I deeply regret the $25 cleats I bought my first year of college, the insole wore out and a staple ate my socks.
+This is a guide to buying cleats for the sport of Ultimate, with some specific guidance extra towards women's cleats which can be much harder to find.
+
+To start, the most important thing is to buy what’s comfortable, and what you can afford, however spending a little bit more can make a big difference. That doesn't mean you have to buy expensive cleats, especially when you can get last year's model/colors on sale. However, I deeply regret the $25 cleats I bought my first year of college, they only lasted 1 year, the insole wore out, and a staple in the heel ate all my socks.
 
 ## Shopping
 
 In order of best for ultimate:
 ### 1. Ultimate Specific Cleats
 
-  1. There are only 2 brands, you have to order online, they have women’s sizes.
-    1. Universe Point (Most Affordable) - runs a little big
-      * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
-      * US based company (East coast)
-        () [https://www.universepoint.com/](https://www.universepoint.com/)
-        ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
-
-    2. Tokay (Best overall for high level players)
-      * ~$134
-      * UK based company - shipping might take longer (1 week)
-      * [https://tokay-ultimate.com/](https://tokay-ultimate.com/)
-      ![](https://tokay-ultimate.com/wp-content/uploads/2017/12/@pict-your-company_tokay_05-439x293.jpg)
+There are only 2 brands, you have to order online, they have women’s sizes.
+  1. Universe Point (Most Affordable) - runs a little big
+    * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
+    * US based company (East coast)
+    * [https://www.universepoint.com/](https://www.universepoint.com/)
+    ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
+  2. Tokay (Best overall for high level players)
+    * ~$134
+    * UK based company - shipping might take longer (1 week)
+    * [https://tokay-ultimate.com/](https://tokay-ultimate.com/)
+    ![](https://tokay-ultimate.com/wp-content/uploads/2017/12/@pict-your-company_tokay_05-439x293.jpg)
 
 ### 2. Football Wide-Receiver
 
@@ -31,7 +32,7 @@ In order of best for ultimate:
   * If your feet are average for Women’s look in the Youth section, here’s a size guide to cross youth (boys) sizes to womens’
 [https://www.sierra.com/blog/lifestyle/find-youth-equivalent-womens-shoe-sizes/](https://www.sierra.com/blog/lifestyle/find-youth-equivalent-womens-shoe-sizes/)
 
-### Soccer
+### 3. Soccer
 
   * The most common and easiest to find
   * Specific women’s sizing
@@ -56,12 +57,12 @@ In order of best for ultimate:
 
 * They should be plastic or rubbery, not metal. "Molded" i.e. not detachable.
 
-**Good:**
+### Good
 
 ![](https://tokay-ultimate.com/wp-content/uploads/2020/05/@pict-your-company_tokay_usa_03-retouche-439x293.jpg)
 ![](https://cdn.shopify.com/s/files/1/1614/0083/products/CheckOut_v1_720x@2x.jpg?v=1504625508)
 
-**Bad:**
+### Bad
 ![A baby quail]({{site.baseurl}}/assets/blade_cleats.jpg)
 
 
