@@ -13,17 +13,17 @@ To start, the most important thing is to buy what’s comfortable, and what you 
 In order of best for ultimate:
 ### 1. Ultimate Specific Cleats
 
-  1. There are only 2 brands, you have to order online, they have women’s sizes.
-    1. Universe Point (Most Affordable) - runs a little big
-      * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
-      * US based company (East coast)
-        () [https://www.universepoint.com/](https://www.universepoint.com/)
-        ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
-    2. Tokay (Best overall for high level players)
-      * ~$134
-      * UK based company - shipping might take longer (1 week)
-      * [https://tokay-ultimate.com/](https://tokay-ultimate.com/)
-      ![](https://tokay-ultimate.com/wp-content/uploads/2017/12/@pict-your-company_tokay_05-439x293.jpg)
+There are only 2 brands, you have to order online, they have women’s sizes.
+  1. Universe Point (Most Affordable) - runs a little big
+    * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
+    * US based company (East coast)
+    * [https://www.universepoint.com/](https://www.universepoint.com/)
+    ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
+  2. Tokay (Best overall for high level players)
+    * ~$134
+    * UK based company - shipping might take longer (1 week)
+    * [https://tokay-ultimate.com/](https://tokay-ultimate.com/)
+    ![](https://tokay-ultimate.com/wp-content/uploads/2017/12/@pict-your-company_tokay_05-439x293.jpg)
 
 ### 2. Football Wide-Receiver
 
