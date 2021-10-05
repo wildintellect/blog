@@ -32,7 +32,7 @@ In order of best for ultimate:
   * If your feet are average for Women’s look in the Youth section, here’s a size guide to cross youth (boys) sizes to womens’
 [https://www.sierra.com/blog/lifestyle/find-youth-equivalent-womens-shoe-sizes/](https://www.sierra.com/blog/lifestyle/find-youth-equivalent-womens-shoe-sizes/)
 
-### Soccer
+### 3. Soccer
 
   * The most common and easiest to find
   * Specific women’s sizing
