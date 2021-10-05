@@ -32,6 +32,12 @@ Nice to haves:
 * Material - Cloth and/or Mesh back
 * Warranty - though they usually don't cover wear & tear or inappropriate uses (hall racing), just manufacturing glitches.
 
+Here's a [guide to how to properly adjust your chair]() since you've likely been doing it wrong.
+
+## The Back Story
+
+Literally after working from home for a year, some mild physical activity, back pain set in and wouldn't go away. Person 1 and Person 2 swapped chairs for a few days, oh ya that old 2nd hand 10+ yr chair was not helping. While it had lots of adjustments and was a good size, the super plush seat was actually not balanced or good for all day sitting, this was a few hours a day kind of chair, not an all day thing. Even the decent $200, best of what Office Whatever had in stock 3 years ago is also starting to age. And so it was time to over research new chairs, enjoy.
+
 ## The Shopping
 
 1st thing, you're looking for a Task Chair or an Ergonomic Chair. Student chairs, executive chairs, and to some extent gaming chairs* are not intended nor designed for 6-10 hours a day. You don't want a super cushy or super hard seat either. Cloth is cooler, and a back that breathes (mesh) is likely to be more comfortable. Realize you're going to spend almost as much time in this thing as you do in bed, and likely more than on the couch - be willing to spend some $$ to not end up with muscle and joint pain later.
