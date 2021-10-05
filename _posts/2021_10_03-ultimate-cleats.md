@@ -19,7 +19,6 @@ In order of best for ultimate:
       * US based company (East coast)
         () [https://www.universepoint.com/](https://www.universepoint.com/)
         ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
-
     2. Tokay (Best overall for high level players)
       * ~$134
       * UK based company - shipping might take longer (1 week)
@@ -58,12 +57,12 @@ In order of best for ultimate:
 
 * They should be plastic or rubbery, not metal. "Molded" i.e. not detachable.
 
-**Good:**
+### Good
 
 ![](https://tokay-ultimate.com/wp-content/uploads/2020/05/@pict-your-company_tokay_usa_03-retouche-439x293.jpg)
 ![](https://cdn.shopify.com/s/files/1/1614/0083/products/CheckOut_v1_720x@2x.jpg?v=1504625508)
 
-**Bad:**
+### Bad
 ![A baby quail]({{site.baseurl}}/assets/blade_cleats.jpg)
 
 
