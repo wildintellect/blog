@@ -8,27 +8,30 @@ This is a guide to buying cleats for the sport of Ultimate, with some specific g
 
 To start, the most important thing is to buy what’s comfortable, and what you can afford, however spending a little bit more can make a big difference. That doesn't mean you have to buy expensive cleats, especially when you can get last year's model/colors on sale. However, I deeply regret the $25 cleats I bought my first year of college, they only lasted 1 year, the insole wore out, and a staple in the heel ate all my socks.
 
+Last updated 2022-05
+
 ## Shopping
 
 In order of best for ultimate:
 ### 1. Ultimate Specific Cleats
 
-There are only 2 brands, you have to order online, they have women’s sizes.
-
-1. Universe Point (Most Affordable) - runs a little big
-
-    * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
-    * US based company (East coast)
-    * [https://www.universepoint.com/](https://www.universepoint.com/)
-    ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
+There is only 1 brand, you have to order online, they have women’s sizes.
     
-2. Tokay (Best overall for high level players)
+1. Tokay (Best overall for high level players)
 
     * ~$134
     * UK based company - shipping might take longer (1 week)
     * [https://tokay-ultimate.com/](https://tokay-ultimate.com/)
     
     ![](https://tokay-ultimate.com/wp-content/uploads/2017/12/@pict-your-company_tokay_05-439x293.jpg)
+
+1. ~Universe Point (Most Affordable) - runs a little big~ Sadly closed now (2022)
+
+    * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
+    * US based company (East coast)
+    * [https://www.universepoint.com/](https://www.universepoint.com/)
+    ![](https://cdn.shopify.com/s/files/1/1614/0083/products/V2Web_best_both_720x@2x.jpg?v=1571421750)
+
 
 ### 2. Football Wide-Receiver
 
@@ -51,6 +54,7 @@ There are only 2 brands, you have to order online, they have women’s sizes.
 
   * Much easier to find mid cut cleats for ankle stability (see Cuts section below)
   * Would be higher ranked if they had better stud shape (see Stud Pattern below)
+  * Tend to be heavier which can be good for larger players.
 
 … Other Football cleats, Rugby etc...
 
@@ -68,7 +72,7 @@ There are only 2 brands, you have to order online, they have women’s sizes.
 ![](https://cdn.shopify.com/s/files/1/1614/0083/products/CheckOut_v1_720x@2x.jpg?v=1504625508)
 
 ### Bad
-![A baby quail]({{site.baseurl}}/assets/blade_cleats.jpg)
+![]({{site.baseurl}}/assets/blade_cleats.jpg)
 
 
 ## Cut (how high it comes up your ankle)
@@ -176,4 +180,3 @@ Learn to lace for your foot shape and fit.
 
 [https://www.sportsrec.com/4337381/difference-between-soccer-cleats-football-cleats](https://www.sportsrec.com/4337381/difference-between-soccer-cleats-football-cleats)
 
-> TODO - add link to stud pattern research
