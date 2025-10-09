@@ -8,7 +8,8 @@ This is a guide to buying cleats for the sport of Ultimate, with some specific g
 
 To start, the most important thing is to buy what’s comfortable, and what you can afford, however spending a little bit more can make a big difference. That doesn't mean you have to buy expensive cleats, especially when you can get last year's model/colors on sale. However, I deeply regret the $25 cleats I bought my first year of college, they only lasted 1 year, the insole wore out, and a staple in the heel ate all my socks.
 
-Last updated 2022-05
+- updated 2025-10 (Added IDA, Moved Sizing to the top of Attributes)
+- updated 2022-05
 
 ## Shopping
 
@@ -25,7 +26,7 @@ There is only 1 brand, you have to order online, they have women’s sizes.
     
     ![](https://tokay-ultimate.com/wp-content/uploads/2017/12/@pict-your-company_tokay_05-439x293.jpg)
 
-1. ~Universe Point (Most Affordable) - runs a little big~ Sadly closed now (2022)
+1. ~~Universe Point (Most Affordable) - runs a little big~~ Sadly closed now (2022)
 
     * ~$110~$85 UP 2.0, ~$85~$45 UP 1.0 (A bit of a stock shortage until late 2021, early 2022)
     * US based company (East coast)
@@ -49,6 +50,8 @@ There is only 1 brand, you have to order online, they have women’s sizes.
   * Watch out for weird stud patterns (see below)
 
   > Note: Look for FG (Firm Ground) or MG (Medium Ground), better cleat pattern for grass and turf.
+  
+  > Note 2: There's a women's specific brand now that gets ok reviews [IDA](https://www.idasports.com/collections/outdoor), Dick's does carry them. Would love to hear from people who have actually tried them.
 
 ### 4. Lacrosse - Also has the extra toe stud
 
@@ -59,6 +62,8 @@ There is only 1 brand, you have to order online, they have women’s sizes.
 … Other Football cleats, Rugby etc...
 
 **!!! Never baseball/softball cleats!!!**
+
+# Attributes
 
 ## Stud Pattern
 
@@ -72,8 +77,14 @@ There is only 1 brand, you have to order online, they have women’s sizes.
 ![](https://cdn.shopify.com/s/files/1/1614/0083/products/CheckOut_v1_720x@2x.jpg?v=1504625508)
 
 ### Bad
+
 ![]({{site.baseurl}}/assets/blade_cleats.jpg)
 
+## Size
+
+* Will probably be close to your regular shoe size.
+
+* Do not buy very tight fitting cleats. It’s much easier to add thicker socks, tighten laces, or add a better insole. Going a 1/2 size bigger than you think could save your toenails (see also Lacing)
 
 ## Cut (how high it comes up your ankle)
 
@@ -102,12 +113,6 @@ There is only 1 brand, you have to order online, they have women’s sizes.
 * Synthetic vs Leather (personal preference & availability) [https://vocal.media/cleats/pros-and-cons-of-leather-vs-synthetic-soccer-cleats](https://vocal.media/cleats/pros-and-cons-of-leather-vs-synthetic-soccer-cleats)
 
 * You do want the back of the heel to not be too hard to avoid blisters.
-
-## Size
-
-* Will probably be close to your regular shoe size
-
-* Do not buy very tight fitting cleats. It’s much easier to add thicker socks, tighten laces, or add a better insole.
 
 ## Socks
 
@@ -141,6 +146,17 @@ Fleet Feet (Downtown Davis), Target, and REI have decent options.
 
 * Get the mud off the upper part so it can dry.
 
+## Lacing
+
+Learn to lace for your foot shape and fit.
+
+* [https://tokay-ultimate.com/welcome-how-to-lace-your-cleats/](https://tokay-ultimate.com/welcome-how-to-lace-your-cleats/)
+
+* [https://www.rei.com/learn/expert-advice/lacing-running-shoes.html](https://www.rei.com/learn/expert-advice/lacing-running-shoes.html)
+
+* [https://www.sunnysports.com/blog/3-best-knots-tying-shoelaces-stay-tied/](https://www.sunnysports.com/blog/3-best-knots-tying-shoelaces-stay-tied/)
+  
+
 ## Where to Buy:
 
 Davis
@@ -163,16 +179,6 @@ Online
 * Major sporting goods stores
   * Dicks
 * Direct from Brand sites, check the clearance pages (Nike, Adidas, Under Armour, etc…)
-
-## Lacing
-
-Learn to lace for your foot shape and fit.
-
-* [https://tokay-ultimate.com/welcome-how-to-lace-your-cleats/](https://tokay-ultimate.com/welcome-how-to-lace-your-cleats/)
-
-* [https://www.rei.com/learn/expert-advice/lacing-running-shoes.html](https://www.rei.com/learn/expert-advice/lacing-running-shoes.html)
-
-* [https://www.sunnysports.com/blog/3-best-knots-tying-shoelaces-stay-tied/](https://www.sunnysports.com/blog/3-best-knots-tying-shoelaces-stay-tied/)
 
 ## More Reading:
 
